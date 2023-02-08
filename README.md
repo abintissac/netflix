@@ -1,0 +1,2 @@
+# netflix
+static website
